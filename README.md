@@ -25,6 +25,8 @@ To switch back to an existing branch, use
 
 `git checkout branch_name`
 
+I added this line from GitHub.
+
 ### Copyright
 
 Copyright (c) 2021, Jessica Nash
