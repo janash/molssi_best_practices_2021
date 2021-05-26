@@ -13,6 +13,18 @@ This package is under development. To do a developmental install do
 pip install -e .
 ```
 
+This package requires the following packages:
+- numpy
+- matplotlib
+
+Features should be developed on branches. To create and switch to a branch, use the command
+
+```git checkout -b new_branch_name```
+
+To switch back to an existing branch, use
+
+`git checkout branch_name`
+
 ### Copyright
 
 Copyright (c) 2021, Jessica Nash
