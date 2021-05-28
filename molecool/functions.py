@@ -5,9 +5,6 @@ A Python package for analyzing and visualzing molecular files. For molssi worksh
 Handles the primary functions
 """
 
-import os
-import numpy as np
-import matplotlib.pyplot as plt
 
 def canvas(with_attribution=True):
     """
